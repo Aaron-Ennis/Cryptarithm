@@ -18,12 +18,12 @@ to a cryptarithm.
 
 To play, simply run the 'cryptarithm' executable and follow the instructions
 in the terminal. You will be presented with the well-known cryptarithm:
-
+```
    send
  + more
  ------
   money
-
+```
 You will then be prompted to enter your solution one line/row at a time. A valid
 solution will meet the following criteria:
 
@@ -34,8 +34,9 @@ solution will meet the following criteria:
 	5) The resulting mathematical formula must be correctly satisfied.
 
 For testing purposes, the solution to the above cryptarithm is as follows:
-
+```
    9567
  + 1085
  ------
   10652
+  ```
