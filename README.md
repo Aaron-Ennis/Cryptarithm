@@ -1,27 +1,18 @@
-Aaron Ennis
-Oregon State University
-Winter 2021
-CS325 Analysis of Algorithms
-Portfolio Assignment
 
-README
+# Cryptarithm
 
 This README file contains simple instructions for compiling and running the
 programs contained in this directory.
 
-*******************************************************************************
-*												Compiling Instructions    														*
-*******************************************************************************
+## Compiling Instructions
 
 To compile, simply run 'make' in the project directory. This will create an
 executable called 'cryptarithm'.
 
-*******************************************************************************
-*											  	Gameplay Instructions    														*
-*******************************************************************************
+## Gameplay Instructions
 
 This is a simple command line version of a cryptarithm puzzle. For this
-implementation, we are using a single well-known cryptarithm stubbed as a
+implementation, I am using a single well-known cryptarithm stubbed as a
 driver to test a general algorithm for verifying the correctness of a solution
 to a cryptarithm.
 
