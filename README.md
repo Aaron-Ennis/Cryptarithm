@@ -1,6 +1,8 @@
 
 # Cryptarithm
 
+This is my portfolio assignment for **CS 325: Analysis of Algorithms**
+
 This README file contains simple instructions for compiling and running the
 programs contained in this directory.
 
